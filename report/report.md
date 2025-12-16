@@ -234,7 +234,7 @@ def phase_5(input_str):
 
 ### secret phase
 ```c
-
+33022
 ```
 这道题逻辑很复杂，需要自己考虑，
 首先获得，
